@@ -1,0 +1,4 @@
+Rincian Belanja:
+sabun: Rp20000.0
+
+Total harga belanja: Rp20000.0
